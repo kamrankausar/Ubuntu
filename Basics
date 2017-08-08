@@ -1,0 +1,9 @@
+# How to update single package
+$sudo apt-get upgrade       # Strictly upgrades the current packages
+$sudo apt-get update        # Fetches the list of available updates
+$sudo apt-get dist-upgrade  # Installs updates (new ones)
+# How to run Conda?
+$conda --version # to check version to confirm that it working.
+$conda create -n py33 python=3.3 anaconda # To run the anoconda
+
+
