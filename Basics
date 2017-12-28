@@ -6,4 +6,8 @@ $sudo apt-get dist-upgrade  # Installs updates (new ones)
 $conda --version # to check version to confirm that it working.
 $conda create -n py33 python=3.3 anaconda # To run the anoconda
 
+# see the binary of any command
+$ locate -b java | fgrep -w bin
+
+
 
